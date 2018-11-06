@@ -4,8 +4,10 @@ n = int(input("Digite um valor inteiro: "))
 
 c =0
 print()
-print("Tabuada")
+print("Tabuada do {}".format(n))
+print("-"*12)
 while (c <11):
-    print("{} x {} = {} ".format(n,c,n*c))
+    print("{} x {:2} = {} ".format(n,c,n*c))
     c +=1
+print("-"*12)
 print("Fim")

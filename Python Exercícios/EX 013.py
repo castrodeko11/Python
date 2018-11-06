@@ -6,4 +6,5 @@ print("Algoritmo para aumento salarial")
 n = input("Digite o nome do funcionário: ")
 v = float(input("Digite o valor do salário: "))
 
-print("O salário atual R$: {} \nAumento Salarial de 15%: {:.2f}".format(v,v*1.15))
+print("O salário atual R$: {} \nAumento "
+      "Salarial de 15%: {:.2f}".format(v,v*1.15))

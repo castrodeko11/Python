@@ -7,4 +7,5 @@ n2 = float(input("Digite a 2ª Nota: "))
 
 m= (n1+n2)/2
 print("")
-print("Aluno: {} \nMédia: {}".format(n,m))
+print("Aluno: {} \nMédia: {:.1f}".format(n,m))
+

@@ -4,4 +4,4 @@
 print("Calcular Preço do produto")
 p = float(input("Digite o valor do produto R$: "))
 
-print("Valor do produto {} \nProduto com desconto de 5%: {}".format(p,p * 0.95))
+print("Valor do produto {} \nProduto com desconto de 5%: {:.2f}".format(p,p * 0.95))

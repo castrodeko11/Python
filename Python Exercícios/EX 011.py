@@ -6,5 +6,6 @@ a = float(input("Digite altura da parede em metros: "))
 area = l*a
 print("")
 print("Relatório")
-print("A area de parede é: {}m2 \nQuantidade de tinta necessária: {} Lts".format(area,area/2))
+print("A area de parede é: {}m² \nQuantidade de"
+      " tinta necessária: {} Lts".format(area,area/2))
 print("Fim")
