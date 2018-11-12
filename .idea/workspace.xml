@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="1b6e0dc5-7403-453e-9a48-093fef8280e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Exercícios/EX 023.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Exercícios/EX 023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Exercícios/EX 024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Exercícios/EX 024.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Exercícios/EX 025.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Exercícios/EX 025.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Exercícios/EX 026.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Exercícios/EX 026.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Exercícios/EX 027.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Exercícios/EX 027.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python$EX_025.coverage" NAME="EX 025 Coverage Results" MODIFIED="1541778804611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
+    <SUITE FILE_PATH="coverage/Python$EX_025.coverage" NAME="EX 025 Coverage Results" MODIFIED="1542024741529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$EX_005.coverage" NAME="EX 005 Coverage Results" MODIFIED="1541509671816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$EX_022.coverage" NAME="EX 022 Coverage Results" MODIFIED="1541780471724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$EX_016.coverage" NAME="EX 016 Coverage Results" MODIFIED="1541691962315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
@@ -22,7 +27,7 @@
     <SUITE FILE_PATH="coverage/Python$Ex_002.coverage" NAME="Ex 002 Coverage Results" MODIFIED="1541418468823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$EX_007.coverage" NAME="EX 007 Coverage Results" MODIFIED="1541510999393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$EX_010.coverage" NAME="EX 010 Coverage Results" MODIFIED="1541516671263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
-    <SUITE FILE_PATH="coverage/Python$EX_027.coverage" NAME="EX 027 Coverage Results" MODIFIED="1541779619071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
+    <SUITE FILE_PATH="coverage/Python$EX_027.coverage" NAME="EX 027 Coverage Results" MODIFIED="1542025991950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$EX_013.coverage" NAME="EX 013 Coverage Results" MODIFIED="1541518318940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$Ex_014.coverage" NAME="Ex 014 Coverage Results" MODIFIED="1541519176527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$Ex_020.coverage" NAME="Ex 020 Coverage Results" MODIFIED="1541764550217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
@@ -33,19 +38,19 @@
     <SUITE FILE_PATH="coverage/Python$EX_018.coverage" NAME="EX 018 Coverage Results" MODIFIED="1541695866273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$Aula_07b.coverage" NAME="Aula 07b Coverage Results" MODIFIED="1541432149147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$EX_021.coverage" NAME="EX 021 Coverage Results" MODIFIED="1541767287810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
-    <SUITE FILE_PATH="coverage/Python$EX_024.coverage" NAME="EX 024 Coverage Results" MODIFIED="1541778532993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
+    <SUITE FILE_PATH="coverage/Python$EX_024.coverage" NAME="EX 024 Coverage Results" MODIFIED="1542024506301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$EX_006.coverage" NAME="EX 006 Coverage Results" MODIFIED="1541510221095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$Aula_01.coverage" NAME="Aula 01 Coverage Results" MODIFIED="1541094015824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Aula_6b.coverage" NAME="Aula 6b Coverage Results" MODIFIED="1541422955433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Exe___1.coverage" NAME="Exe - 1 Coverage Results" MODIFIED="1541094656437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$EX_011.coverage" NAME="EX 011 Coverage Results" MODIFIED="1541517414796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
-    <SUITE FILE_PATH="coverage/Python$EX_026.coverage" NAME="EX 026 Coverage Results" MODIFIED="1541779094732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
+    <SUITE FILE_PATH="coverage/Python$EX_026.coverage" NAME="EX 026 Coverage Results" MODIFIED="1542025579950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$Aula_003.coverage" NAME="Aula 003 Coverage Results" MODIFIED="1541423405794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$Ex_004.coverage" NAME="Ex 004 Coverage Results" MODIFIED="1541428739442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$Ex_001.coverage" NAME="Ex 001 Coverage Results" MODIFIED="1541417508432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Aula_06.coverage" NAME="Aula 06 Coverage Results" MODIFIED="1541422646744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$EX_017.coverage" NAME="EX 017 Coverage Results" MODIFIED="1541693241548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
-    <SUITE FILE_PATH="coverage/Python$EX_023.coverage" NAME="EX 023 Coverage Results" MODIFIED="1541780931108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
+    <SUITE FILE_PATH="coverage/Python$EX_023.coverage" NAME="EX 023 Coverage Results" MODIFIED="1542023428111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
     <SUITE FILE_PATH="coverage/Python$EX_008.coverage" NAME="EX 008 Coverage Results" MODIFIED="1541511229779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Exercícios" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -55,41 +60,52 @@
           <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.24" value="2" />
-          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="96" />
+          <entry key="py" value="102" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="96" />
+          <entry key="Python" value="102" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="34" />
           <entry key="dummy" value="9" />
-          <entry key="py" value="10169" />
+          <entry key="py" value="10698" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="9" />
-          <entry key="Python" value="10203" />
+          <entry key="Python" value="10732" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 027.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -136,12 +152,12 @@
         <option value="$PROJECT_DIR$/Python Exercícios/EX 021.py" />
         <option value="$PROJECT_DIR$/Python Exercícios/EX 022 Prática.py" />
         <option value="$PROJECT_DIR$/Aula 09.py" />
+        <option value="$PROJECT_DIR$/Python Exercícios/EX 022.py" />
+        <option value="$PROJECT_DIR$/Python Exercícios/EX 023.py" />
         <option value="$PROJECT_DIR$/Python Exercícios/EX 024.py" />
         <option value="$PROJECT_DIR$/Python Exercícios/EX 025.py" />
         <option value="$PROJECT_DIR$/Python Exercícios/EX 026.py" />
         <option value="$PROJECT_DIR$/Python Exercícios/EX 027.py" />
-        <option value="$PROJECT_DIR$/Python Exercícios/EX 022.py" />
-        <option value="$PROJECT_DIR$/Python Exercícios/EX 023.py" />
       </list>
     </option>
   </component>
@@ -161,6 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,7 +194,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,29 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.EX 023">
-    <configuration name="EX 022" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Exercícios" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Exercícios/EX 022.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.EX 027">
     <configuration name="EX 023" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,6 +235,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Exercícios/EX 023.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="EX 024" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Exercícios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Exercícios/EX 024.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,19 +332,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.EX 023" />
+      <item itemvalue="Python.EX 024" />
       <item itemvalue="Python.EX 025" />
       <item itemvalue="Python.EX 026" />
       <item itemvalue="Python.EX 027" />
-      <item itemvalue="Python.EX 022" />
-      <item itemvalue="Python.EX 023" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.EX 023" />
-        <item itemvalue="Python.EX 022" />
         <item itemvalue="Python.EX 027" />
         <item itemvalue="Python.EX 026" />
         <item itemvalue="Python.EX 025" />
+        <item itemvalue="Python.EX 024" />
+        <item itemvalue="Python.EX 023" />
       </list>
     </recent_temporary>
   </component>
@@ -347,12 +363,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="734" height="867" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287858" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927008" weight="0.2946794" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49927008" visible="true" weight="0.2946794" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39972714" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -388,13 +405,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula 06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 06.py" />
     <entry file="file://$PROJECT_DIR$/Python Exercícios/Ex 004.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -402,13 +413,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula 07b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="58" lean-forward="true" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 07b.py" />
     <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 005.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -458,20 +463,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula 6b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula 07.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 6b.py" />
+    <entry file="file://$PROJECT_DIR$/Aula 07.py" />
     <entry file="file://$PROJECT_DIR$/Python Exercícios/Ex 002.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -556,13 +549,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula 01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 01.py" />
     <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 022 Prática.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -570,41 +557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 024.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="45" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 025.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" selection-start-column="43" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 026.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aula 09.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="39" column="8" lean-forward="true" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 027.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Aula 09.py" />
     <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 022.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -614,8 +567,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 023.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="8" selection-end-column="51" />
+        <state relative-caret-position="255">
+          <caret line="15" column="54" lean-forward="true" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 024.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 025.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 026.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Exercícios/EX 027.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

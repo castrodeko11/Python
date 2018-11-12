@@ -1,9 +1,20 @@
 #23 Algoritmo para mostrar cada um dos números separedos
 
-ns = int(input("Digite um número: "))
+num = int(input("Digite um número: "))
 #
-# u
+# n = str(num)
 #
-#
-# print("Analisadno o número {}\nUnidade: {}\nDezena: {}"
-#       "\nCentena: {}\nMilhar: {}".format(ns,,,,))
+# print("Analisando o número {} \nUnidade: {}\nDezena: {}"
+#       "\nCentena: {}\nMilhar: {}".format(num,n[3],n[2],n[1],n[0]))
+
+
+u = num //1 % 10
+d = num //10 % 10
+c = num // 100 % 10
+m = num // 1000 % 10
+print("Analisando o número {} \nUnidade: {}\nDezena: {}"
+      "\nCentena: {}\nMilhar: {}".format(num,u,d,c,m))
+
+
+
+
