@@ -8,14 +8,17 @@ n = float(input("Digite a distância da viagem: "))
 
 if (n <=200):
     {
-        print("Distância da viagem: {} KM\nValor da viagem R$: {:.2f}".format(n,n*0.50))
+        print("Distância da viagem: {} KM\nValor"
+              " da viagem R$: {:.2f}".format(n,n*0.50))
 
     }
 else:
     {
 
-        print("Distância da viagem: {} KM\nValor da viagem R$: {:.2f}".format(n, n * 0.45))
+        print("Distância da viagem: {} KM\nValor da"
+              " viagem R$: {:.2f}".format(n, n * 0.45))
     }
+
 
 
 
