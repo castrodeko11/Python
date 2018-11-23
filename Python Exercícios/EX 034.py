@@ -6,8 +6,16 @@
 v = float(input("Digite seu salário: "))
 
 if (v > 1250):
-    {
-        print("O salário atual é R$ {}\nAumento Salarial de 10% R$: {:.2f} ".format(v,v*1.10))
-    }
+
+        print("O salário atual é R$ {}\nAumento "
+              "Salarial de 10% R$: {:.2f} ".format(v, v * 1.10))
+
 else:
-    print("O salário atual é R$ {}\nAumento Salarial de 15% R$: {:.2f} ".format(v, v * 1.15))
+    print("O salário atual é R$ {}\nAumento "
+          "Salarial de 15% R$: {:.2f} ".format(v, v * 1.15))
+
+
+# from random import randint
+# num = randint(1, 6)
+# res = num // 2
+# print(res)
